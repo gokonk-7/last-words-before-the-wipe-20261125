@@ -1,0 +1,7 @@
+kit/
+competition.json
+requirements.json
+bundle.tar.gz
+__pycache__/
+*.pyc
+/output/
